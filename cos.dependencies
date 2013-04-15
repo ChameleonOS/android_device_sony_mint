@@ -1,28 +1,40 @@
 [
   {
+    "project": "CyanogenMod",
     "repository": "android_device_sony_common",
     "target_path": "device/sony/common"
   },
   {
+    "project": "CyanogenMod",
     "repository": "android_device_sony_qcom-common",
     "target_path": "device/sony/qcom-common"
- },
- {
+  },
+  {
+    "project": "CyanogenMod",
     "repository": "android_device_sony_blue-common",
     "target_path": "device/sony/blue-common"
- },
- {
+  },
+  {
+    "project": "CyanogenMod",
     "repository": "android_kernel_sony_msm8x60",
     "target_path": "kernel/sony/msm8x60"
- },
+  },
   {
+    "project": "CyanogenMod",
     "repository": "android_packages_apps_FMRadio",
     "target_path": "packages/apps/FmRadio",
     "branch": "jellybean"
   },
- {
+  {
+    "project": "CyanogenMod",
     "repository": "android_hardware_sony_DASH",
     "target_path": "hardware/sony/DASH",
     "branch": "jellybean"
+  }
+  {
+    "project": "ChameleonOS",
+    "repository": "android_vendor_sony_mint",
+    "target_path": "vendor/sony/mint",
+    "branch": "jellbean-mr1"
   }
 ]
