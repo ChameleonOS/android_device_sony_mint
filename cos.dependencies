@@ -34,7 +34,7 @@
     "repository": "android_hardware_sony_DASH",
     "target_path": "hardware/sony/DASH",
     "branch": "jellybean"
-  }
+  },
   {
     "project": "ChameleonOS",
     "repository": "android_vendor_sony_mint",
