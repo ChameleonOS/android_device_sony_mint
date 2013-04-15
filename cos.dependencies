@@ -39,6 +39,6 @@
     "project": "ChameleonOS",
     "repository": "android_vendor_sony_mint",
     "target_path": "vendor/sony/mint",
-    "branch": "jellbean-mr1"
+    "branch": "jellybean-mr1"
   }
 ]
