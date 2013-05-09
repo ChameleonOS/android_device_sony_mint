@@ -27,13 +27,13 @@
     "project": "CyanogenMod",
     "repository": "android_packages_apps_FMRadio",
     "target_path": "packages/apps/FmRadio",
-    "branch": "jellybean"
+    "branch": "cm-10.1"
   },
   {
     "project": "CyanogenMod",
     "repository": "android_hardware_sony_DASH",
     "target_path": "hardware/sony/DASH",
-    "branch": "jellybean"
+    "branch": "cm-10.1"
   },
   {
     "project": "ChameleonOS",
