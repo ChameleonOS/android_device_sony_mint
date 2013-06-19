@@ -38,7 +38,7 @@
   {
     "project": "TheMuppets",
     "repository": "proprietary_vendor_sony",
-    "target_path": "vendor/sony/",
+    "target_path": "vendor/sony",
     "branch": "cm-10.1"
   }
 ]
