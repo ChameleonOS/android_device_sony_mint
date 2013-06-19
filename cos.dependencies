@@ -36,21 +36,9 @@
     "branch": "cm-10.1"
   },
   {
-    "project": "ChameleonOS",
-    "repository": "android_vendor_sony_mint",
-    "target_path": "vendor/sony/mint",
-    "branch": "jellybean-mr1"
-  },
-  {
-    "project": "ChameleonOS",
-    "repository": "android_vendor_sony_blue-common",
-    "target_path": "vendor/sony/blue-common",
-    "branch": "jellybean-mr1"
-  },
-  {
-    "project": "ChameleonOS",
-    "repository": "android_vendor_sony_qcom-common",
-    "target_path": "vendor/sony/qcom-common",
-    "branch": "jellybean-mr1"
+    "project": "TheMuppets",
+    "repository": "proprietary_vendor_sony",
+    "target_path": "vendor/sony/",
+    "branch": "cm-10.1"
   }
 ]
